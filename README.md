@@ -50,10 +50,8 @@ Androidアプリは、下図のようなUIです。
 * 自分のコンパイラにプログラムをインポートします。
 * コンパイルしてターゲットのボードに書き込みます。
 
-<!--
 ### ハードウェア(例)
-![実体配線図](http://licheng.sakura.ne.jp/steer/wiring.png)
--->
+![実体配線図](http://licheng.sakura.ne.jp/steer/BLE_wiring.png)
 
 ### アプリの操作
 * Bluetoothロゴのボタンを押すと、接続するデバイスを選択する画面になります。
