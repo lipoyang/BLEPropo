@@ -4,11 +4,11 @@ BLEPropo
 ## 概要
 BLEを使ったAndroid用ラジコンプロポアプリ、およびmbed HRM1017用ファームウェアです。
 
-<!--![概念図](TODO)-->
+![概念図](image/BLE_overview.png)
 
 Androidアプリは、下図のようなUIです。
 
-![アプリの画面](http://licheng.sakura.ne.jp/steer/BLE_UI_small.png)
+![アプリの画面](image/BLE_UI_small.png)
 
 ラジコンは、mbed HRM1017とRCサーボやDCモータを組み合わせて作ります。
 <!--
@@ -51,7 +51,7 @@ Androidアプリは、下図のようなUIです。
 * コンパイルしてターゲットのボードに書き込みます。
 
 ### ハードウェア(例)
-![実体配線図](http://licheng.sakura.ne.jp/steer/BLE_wiring.png)
+![実体配線図](image/BLE_wiring.png)
 
 ### アプリの操作
 * Bluetoothロゴのボタンを押すと、接続するデバイスを選択する画面になります。
