@@ -45,7 +45,7 @@ Androidアプリは、下図のようなUIです。
 * BLEPropoをADTからAndroid端末にインストールして実行します。
 
 ### mbed HRM1017のファームウェアのインストール
-* ブラウザでmbedにログインします。
+* ブラウザで[mbed.org](https://mbed.org/)にログインします。
 * [MiniSteer_BLEのリポジトリ](http://mbed.org/users/lipoyang/code/MiniSteer_BLE/)にアクセスします。
 * 自分のコンパイラにプログラムをインポートします。
 * コンパイルしてターゲットのボードに書き込みます。
