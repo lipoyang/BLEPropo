@@ -46,7 +46,7 @@ Androidアプリは、下図のようなUIです。
 
 ### mbed HRM1017のファームウェアのインストール
 * ブラウザで[mbed.org](https://mbed.org/)にログインします。
-* [MiniSteer_BLEのリポジトリ](http://mbed.org/users/lipoyang/code/MiniSteer_BLE/)にアクセスします。
+* [MiniSteer2のリポジトリ](http://developer.mbed.org/users/lipoyang/code/MiniSteer2/)にアクセスします。
 * 自分のコンパイラにプログラムをインポートします。
 * コンパイルしてターゲットのボードに書き込みます。
 
