@@ -11,11 +11,9 @@ Androidアプリは、下図のようなUIです。
 ![アプリの画面](image/BLE_UI_small.png)
 
 ラジコンは、mbed HRM1017とRCサーボやDCモータを組み合わせて作ります。
-<!--
 下図はミニ四駆を改造して作ったラジコンです。
 
-![ラジコンの写真](http://licheng.sakura.ne.jp/steer/TODO)
--->
+![ラジコンの写真](image/Mini4WD.jpg)
 
 ## 動作環境
 ### システム要件
